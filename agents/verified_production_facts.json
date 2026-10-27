@@ -1,0 +1,17 @@
+{
+  "updated_at": "2026-10-27T02:29:42.377307",
+  "projects": {
+    "Video_01": {
+      "source_file": "Video_01_NotebookLM_Extracted_Notes.txt",
+      "verified_stats": [
+        "10 Seconds One-Leg Balance Test",
+        "84% Mortality Risk Correlation (BJSM)"
+      ],
+      "doac_hooks": [
+        "10 SECOND TEST",
+        "84% SURVIVAL LINK",
+        "LIFE SPAN"
+      ]
+    }
+  }
+}

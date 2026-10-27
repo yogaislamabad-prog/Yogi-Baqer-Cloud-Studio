@@ -1,0 +1,7 @@
+Project_ID: Video_01
+Verified_Stat_1: 10 Seconds One-Leg Balance Test
+Verified_Stat_2: 84% Mortality Risk Correlation (BJSM)
+Verified_Correction_1: life spend -> Life Span
+DOAC_Left_Hook: 10 SECOND TEST
+DOAC_Right_Hook: 84% SURVIVAL LINK
+DOAC_Background_Hook: LIFE SPAN

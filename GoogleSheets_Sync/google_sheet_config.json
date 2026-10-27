@@ -1,0 +1,5 @@
+{
+  "google_sheet_url": "PASTE_YOUR_GOOGLE_SHEET_URL_HERE_IF_NEEDED",
+  "apps_script_webhook_url": "",
+  "auto_fill_missing_links": true
+}

@@ -1,0 +1,12 @@
+{
+  "agent_id": "Agent_B1_Breakout_Radar",
+  "squad": "Squad_B_Intelligence",
+  "role": "Viral Outlier & Breakout Channel Radar",
+  "assigned_tasks": [
+    "Scan Health, Longevity, Nutrition & Yoga channels for 3x-10x outlier videos",
+    "Log viral topics for Google Sheets sync"
+  ],
+  "status": "ACTIVE",
+  "deployed_at": "2026-10-27T02:53:20.673239",
+  "workspace": "E:\\CapCut_Automation"
+}

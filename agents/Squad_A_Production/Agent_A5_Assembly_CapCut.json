@@ -1,0 +1,14 @@
+{
+  "agent_id": "Agent_A5_Assembly_CapCut",
+  "squad": "Squad_A_Production",
+  "role": "CapCut Timeline Assembler & 300-3400Hz FFT Audio Sync Engine",
+  "assigned_tasks": [
+    "Sync Sony ZV-E10 & Maono PX-400 audio",
+    "Surgical chatter/retake removal",
+    "Generate Size 14.0 Bold Captions",
+    "Inject 5s Yogi Baqer End Card"
+  ],
+  "status": "ACTIVE",
+  "deployed_at": "2026-10-27T02:53:20.626277",
+  "workspace": "E:\\CapCut_Automation"
+}
